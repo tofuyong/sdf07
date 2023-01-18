@@ -1,6 +1,5 @@
 h1 {
-    font-family:'Courier New', Courier, monospace;
-    font-weight: bold;
+    
 }
 
 strong {
@@ -18,3 +17,12 @@ strong {
     font-family: 'Times New Roman', Times, serif;
     color: #3A4F7A;
 }
+
+.container {
+     
+}
+
+footer{
+    font-size: 0.8em;
+}
+
